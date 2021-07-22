@@ -1,7 +1,10 @@
 # Repositório do desfio projeto sobre git/github da DIO + os desafios iniciais dos primeiros passos em Kotlin
 1° Desafio de projeto sobre git/github
+
 2° Desafio SOMA
+
 3° Desafio Média 
+
 4° Multiplicação Simples
 
 ## Links Úteis
